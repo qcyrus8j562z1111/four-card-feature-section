@@ -28,7 +28,7 @@ Users should be able to:
  
 - Repository URL: [GitHub repository](https://github.com/qcyrus8j562z1111/four-card-feature-section)
 - Solution URL: Add Frontend Mentor solution URL after submission
-- Live Site URL: Add live site URL after deployment
+- Live Site URL:  https://qcyrus8j562z1111.github.io/four-card-feature-section/
  
 ## My process
  
