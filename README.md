@@ -16,8 +16,7 @@ Users should be able to:
  
 ### Screenshot
  
-![Screenshot of my Four Card Feature Section solution](<img width="831" height="524" alt="Screenshot 2026-10-03 153322" src="https://github.com/user-attachments/assets/86d76369-0a62-46b4-9647-ee72256146b4" />
-)
+<img width="831" height="524" alt="Screenshot 2026-10-03 153322" src="https://github.com/user-attachments/assets/86d76369-0a62-46b4-9647-ee72256146b4" />
 
 <img width="294" height="572" alt="Screenshot 2026-10-03 153508" src="https://github.com/user-attachments/assets/5584fd8b-39c6-46d0-bdad-0cb491404930" />
 
