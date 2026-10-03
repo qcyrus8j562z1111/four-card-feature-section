@@ -31,7 +31,7 @@ body {
 /* Intro section */
 .intro {
     text-align: center;
-    padding: 5rem 2rem 0;
+    padding: 4rem 2rem 0;
 }
 
 /* Heading section */
@@ -50,4 +50,57 @@ body {
     margin-top: 1rem;
     color: var(--color-gray-400);
     line-height: 1.7;
+}
+
+/* Card Section */
+.features {
+    display: grid;
+    gap: 1.5rem;
+    padding: 4rem 2rem;
+}
+
+/* Shared Card */
+.card {
+    padding: 2rem;
+    border-top: 0.25rem solid;
+    border-radius: 0.5rem;
+    background-color: var(--color-white);
+    box-shadow: 0 0.75rem 1.5rem rgba(84, 100, 126, 0.2);
+}
+
+.card h2 {
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+.card p {
+    margin-top: 0.375rem;
+    color: var(--color-grey-400);
+    line-height: 1.7
+}
+
+.card img {
+    display: block;
+    margin-top: 2rem;
+    margin-left: auto;
+}
+
+/* Supervisor Card */
+.card-supervisor {
+    border-top-color: var(--color-cyan);
+}
+
+/* Team Builder */
+.card-team-builder {
+    border-top-color: var(--color-red);
+}
+
+/* Karma Card */
+.card-karma {
+    border-top-color: var(--color-orange);
+}
+
+/* Calculator Card */
+.card-calculator {
+    border-top-color: var(--color-blue);
 }
