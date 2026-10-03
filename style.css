@@ -27,3 +27,27 @@ body {
     color: var(--color-grey-500);
     background-color: var(--color-white);
 }
+
+/* Intro section */
+.intro {
+    text-align: center;
+    padding: 5rem 2rem 0;
+}
+
+/* Heading section */
+.intro h1 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    line-height: 1.4;
+}
+
+.intro h1 span {
+    display: block;
+    font-weight: 200;
+}
+
+.intro p {
+    margin-top: 1rem;
+    color: var(--color-gray-400);
+    line-height: 1.7;
+}
